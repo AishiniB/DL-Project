@@ -1,2 +1,2 @@
 # DL-Project
-WTI Crude Spot Oil Price Prediction
+Base Paper: https://www.sciencedirect.com/science/article/pii/S0360544224028779
